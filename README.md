@@ -17,7 +17,6 @@ Aplikasi manajemen kasir modern dan pengelolaan stok (inventaris) berbasis web y
 | **Program Studi** | Teknik Informatika |
 | **Fakultas** | Fakultas Teknik |
 | **Instansi** | Universitas PGRI Madiun |
-| **Dosen Pembimbing** | Moch Yusuf Asyhari, S.Tr.Kom., M.Kom. |
 
 ---
 
